@@ -6,9 +6,15 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
+<<<<<<< HEAD
     branches: ["main"]
   pull_request:
     branches: ["main"]
+=======
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+>>>>>>> 20f03cece85d3acb31640e693ce1dba1411f5130
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
