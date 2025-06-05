@@ -1,0 +1,280 @@
+{
+  "basics": {
+    "name": "Henrique Zambonin",
+    "label": "Frontend Developer | UI/UX-Focused Engineer | MarTech Specialist",
+    "image": "",
+    "email": "hey@zambo.io",
+    "phone": "+55 51 999604489",
+    "url": "https://zambo.io",
+    "summary": "Frontend Developer with 18+ years of experience where coding has been the common thread across diverse roles - from early web development to co-founding a digital agency. Expert in React ecosystem, modern JavaScript, and creating user-centric interfaces. Unique background combining hands-on development with business strategy and design, enabling me to build solutions that are both technically sound and aligned with business goals. After 8 years running my agency, I've chosen to return to full-time development, seeking a frontend engineering role focused on technical excellence within a collaborative team.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Porto Alegre",
+      "countryCode": "BR",
+      "region": "Brazil"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "henriquezambonin",
+        "url": "https://www.linkedin.com/in/henriquezambonin/"
+      },
+      {
+        "network": "GitHub",
+        "username": "zambo",
+        "url": "https://github.com/zambo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Neat Growth",
+      "position": "Co-founder & Lead Frontend Developer",
+      "url": "https://neatgrowth.com",
+      "startDate": "2017-01-01",
+      "endDate": "2025-03-01",
+      "summary": "Co-founded and scaled digital marketing agency from 2 to 17 team members, maintaining hands-on development role throughout growth",
+      "highlights": [
+        "Built responsive client websites and web applications using React, TypeScript, Next.js, and Tailwind CSS while managing business operations",
+        "Designed and facilitated outcome-driven workshops using custom framework to translate business goals into technical requirements",
+        "Implemented analytics infrastructure (Google Analytics, GTM, custom dashboards) and wrote unit tests for critical components",
+        "Developed reusable component libraries with Jest testing, conducting code reviews to maintain quality standards",
+        "Automated internal processes using JavaScript and REST APIs, improving operational efficiency while scaling the team",
+        "Recruited and mentored developers in Agile methodologies, establishing coding standards and technical workflows",
+        "Balanced technical delivery with business responsibilities, ensuring quality code output despite competing priorities"
+      ]
+    },
+    {
+      "name": "LeadBoxer",
+      "position": "MarTech Engineer",
+      "url": "https://www.leadboxer.com/",
+      "startDate": "2016-01-22",
+      "endDate": "2017-03-01",
+      "summary": "Built automated marketing workflows based on user behavior triggers",
+      "highlights": [
+        "Built automated marketing workflows based on user behavior triggers (e.g., trial signup → onboarding sequence, feature usage → upsell campaign)",
+        "Implemented JavaScript tracking using Segment, GTM, and custom tags to capture user events for automation triggers",
+        "Designed multi-step email sequences and touchpoint logic, reducing manual follow-up work for small team",
+        "Developed responsive landing pages using Bootstrap, HTML, CSS, and JavaScript for campaign touchpoints",
+        "Managed paid campaigns across Google Ads and LinkedIn Ads, feeding leads into automated nurture flows"
+      ]
+    },
+    {
+      "name": "Superplayer & Co",
+      "position": "Product Marketing & Growth Engineer",
+      "url": "https://superplayer.company/",
+      "startDate": "2015-04-01",
+      "endDate": "2016-01-01",
+      "summary": "Owned entire customer acquisition funnel from creative design to conversion",
+      "highlights": [
+        "Owned entire customer acquisition funnel from creative design to conversion, achieving €0.01 cost-per-install through growth engineering techniques",
+        "Designed ad creatives and landing pages while leveraging JavaScript and DOM knowledge for advanced targeting optimization",
+        "Implemented tracking with Google Analytics, Mixpanel, and Facebook Pixel to measure user behavior and optimize funnels",
+        "Wrote SQL queries to segment user data for personalized email campaigns and in-app messaging",
+        "Configured A/B tests across the funnel, continuously improving conversion rates from ad to signup"
+      ]
+    },
+    {
+      "name": "Grupo RBS",
+      "position": "Product & Marketing Analyst",
+      "url": "https://www.gruporbs.com.br/",
+      "startDate": "2014-07-01",
+      "endDate": "2015-04-01",
+      "summary": "Designed video engagement tracking strategy and delivered technical documentation",
+      "highlights": [
+        "Designed video engagement tracking strategy measuring KPIs across desktop/mobile, creating specifications that saved costs on specialized tools",
+        "Delivered detailed technical documentation to developers for implementing Google Analytics, KISSmetrics, Chartbeat, and ComScore",
+        "Configured Google Tag Manager containers for consistent tracking across properties, ensuring accurate data collection",
+        "Applied AARRR framework (Acquisition, Activation, Retention, Referral, Revenue) to drive data-driven product improvements",
+        "Presented weekly analytics reports to marketing leadership and product teams, aligning stakeholders on performance metrics"
+      ]
+    },
+    {
+      "name": "W3haus",
+      "position": "Web Analyst",
+      "url": "https://w3.haus/",
+      "startDate": "2010-01-01",
+      "endDate": "2014-03-30",
+      "summary": "Led analytics implementation for major Brazilian brands",
+      "highlights": [
+        "Led analytics implementation for major Brazilian brands, ensuring accurate tracking across web properties",
+        "Implemented Google Tag Manager containers and custom JavaScript tags for enhanced tracking capabilities",
+        "Automated reporting workflows by integrating Google Analytics API with Google Sheets and custom dashboards",
+        "Developed custom JavaScript solutions for e-commerce tracking and user behavior analysis"
+      ]
+    },
+    {
+      "name": "E-storage",
+      "position": "Web Analyst",
+      "startDate": "2008-01-01",
+      "endDate": "2010-01-01",
+      "summary": "Installed and configured on-premise analytics systems for government agencies",
+      "highlights": [
+        "Installed and configured on-premise analytics systems for government agencies with strict privacy requirements",
+        "Achieved Google Urchin Software Authorized Consultant (USAC) certification",
+        "Developed custom reporting solutions using JavaScript and analytics APIs",
+        "Trained client teams on analytics implementation and data interpretation"
+      ]
+    },
+    {
+      "name": "W3haus",
+      "position": "Frontend Developer Intern",
+      "url": "https://w3.haus/",
+      "startDate": "2006-01-01",
+      "endDate": "2007-01-01",
+      "summary": "Developed frontend solutions for major brands",
+      "highlights": [
+        "Developed frontend solutions for major brands including C&A Brasil, Stihl, and Amnesty International",
+        "Became company's first dedicated frontend developer, pioneering CSS-based layouts during the 'tableless' web movement",
+        "Built cross-browser compatible interfaces for IE5+, IE6, and Firefox using progressive enhancement techniques",
+        "Implemented web standards and accessibility best practices while Flash still dominated the market"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "UNISINOS University",
+      "url": "https://www.unisinos.br/",
+      "area": "Digital Communications",
+      "studyType": "Bachelor",
+      "startDate": "2006-01-01",
+      "endDate": "2010-01-01",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Expert",
+      "keywords": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "HTML5",
+        "CSS3",
+        "SQL",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Frontend Frameworks",
+      "level": "Expert",
+      "keywords": [
+        "React",
+        "Next.js",
+        "Vue.js",
+        "Astro",
+        "Angular (legacy)",
+        "Redux",
+        "Context API"
+      ]
+    },
+    {
+      "name": "Styling & UI",
+      "level": "Expert",
+      "keywords": [
+        "Tailwind CSS",
+        "SASS/SCSS",
+        "CSS Modules",
+        "Styled Components",
+        "shadcn/ui",
+        "Material-UI",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Build Tools & Bundlers",
+      "level": "Advanced",
+      "keywords": ["Webpack", "Vite", "Gulp", "Grunt", "Rollup", "Parcel"]
+    },
+    {
+      "name": "Testing",
+      "level": "Advanced",
+      "keywords": [
+        "Jest",
+        "React Testing Library",
+        "Cypress",
+        "Enzyme",
+        "TDD/BDD methodologies"
+      ]
+    },
+    {
+      "name": "Version Control & CI/CD",
+      "level": "Advanced",
+      "keywords": ["Git", "GitHub Actions", "GitLab CI", "Bitbucket Pipelines"]
+    },
+    {
+      "name": "MarTech & Analytics",
+      "level": "Expert",
+      "keywords": [
+        "Google Analytics 4",
+        "Tag Manager",
+        "Segment",
+        "Mixpanel",
+        "Custom tracking implementations"
+      ]
+    },
+    {
+      "name": "Design Tools",
+      "level": "Intermediate",
+      "keywords": ["Figma", "Adobe XD", "Sketch"]
+    },
+    {
+      "name": "Performance & SEO",
+      "level": "Advanced",
+      "keywords": [
+        "Core Web Vitals optimization",
+        "Lighthouse",
+        "PageSpeed Insights",
+        "SEO best practices"
+      ]
+    },
+    {
+      "name": "Cloud & Deployment",
+      "level": "Advanced",
+      "keywords": ["Vercel", "Netlify", "AWS (S3, CloudFront)", "Docker basics"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    }
+  ],
+  "interests": [
+    {
+      "name": "UI/UX Design",
+      "keywords": ["Design systems", "User-centric interfaces"]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "Web animations and micro-interactions",
+        "Frontend performance optimization"
+      ]
+    },
+    {
+      "name": "MarTech",
+      "keywords": ["MarTech innovations", "Analytics implementation"]
+    },
+    {
+      "name": "Business Strategy",
+      "keywords": ["Bridging design, development, and business strategy"]
+    }
+  ],
+  "references": [],
+  "projects": []
+}
